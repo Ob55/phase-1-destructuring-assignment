@@ -26,6 +26,7 @@ const nestedMuppet = {
 };
 
 // Strings
+
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ');
 
